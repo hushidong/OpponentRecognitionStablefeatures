@@ -50,6 +50,8 @@ Ngtt\Ngtr| 500| 750| 1000| 3000
 1000| 0.071428575| 0.309523821| 0.859523833| 0.142857149
 3000| 0.071428575| 0.157142863| 0.200000003| 0.942857146
 
+where, Ngtr is the Ng used for training, Ngtt is the Ng used for test.
+
 
 Table. recognition accuracy with the first 6 features:
 
