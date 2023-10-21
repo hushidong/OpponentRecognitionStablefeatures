@@ -95,6 +95,7 @@ It can be concluded that the stable features is the more important than other fe
 
 This repo provides an opponent recoginiton methed based on stable features, experimental results show that the stable features can be used to recognize opponents and can archieve higher accuracy than the traditional empirical features.  
 
-
+## history
+2023-10-20
 
 
